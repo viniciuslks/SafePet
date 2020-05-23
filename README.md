@@ -2,7 +2,8 @@
 1-instalar git(com o mesmo usuário que me passaram)
 2- instalar node+npm
 3- clonar o projeto.No prompt de comando/terminal: git clone https://github.com/SafePet-Devs/SafePet.git
-4 -No prompt de comando/terminal: git pull origin master 
+4- npm install
+5 -No prompt de comando/terminal: git pull origin master 
 
 # Workflow Git
 
